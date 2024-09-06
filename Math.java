@@ -8,5 +8,6 @@ public class Math {
         int y = 4;
 
         System.out.println("The Sum of 12 and 1 = " + (x + y));
+        System.out.println("The Diff of 12 and 1 = " + (x - y));
     }
 }
